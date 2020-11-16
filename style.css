@@ -1,0 +1,43 @@
+h1
+{
+  
+	color: black;
+	font-family: "Libertinage";
+	font-size: 3em;
+	text-decoration: underline;
+	text-align: center;
+}
+
+h2
+{
+  
+	color: lightyellow;
+	font-family: "Libertinage";
+	font-size: 1.7em;
+	text-align: center;
+}
+
+p
+{
+
+    color: white;
+    font-size: 2em;
+	font-family: "Libertinage";
+    text-align: center
+}
+@font-face {
+	font-family: "Libertinage";
+	src: url(Libertinage.ttf);
+    
+
+}
+body{
+	background-color: rgb(24, 135, 115);
+}
+#conteneur
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+
